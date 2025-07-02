@@ -8,8 +8,8 @@ This repository documents and contains scripts and captures for a WiFi attack pe
 
 ## Requirements
 
-- An external WiFi card capable of monitor mode and packet injection.
-- Tools: `airdump-ng`, `aircrack-ng`, `hcxdumptool` for capture and cracking.
+- An external WiFi card capable of monitor mode and packet injection. (AWUS036ACH is the one i will be using duting this lab)
+- Tools: `airdump-ng`, `aircrack-ng`, for capture and cracking.
 - Optional: `Wireshark` to visualize the captured handshake.
 
 ## Usage
